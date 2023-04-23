@@ -42,6 +42,11 @@
             <scope>compile</scope>
         </dependency>
 
+        <dependency>
+            <groupId>nz.net.ultraq.thymeleaf</groupId>
+            <artifactId>thymeleaf-layout-dialect</artifactId>
+        </dependency>
+
         <!-- Dependency for MySQL Database -->
         <dependency>
             <groupId>mysql</groupId>
